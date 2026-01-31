@@ -1,0 +1,12 @@
+{
+  "name": "chandrakant",
+  "version": "1.0.0",
+  "description": "this is an node.js project",
+  "license": "ISC",
+  "author": "chandrakant",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
